@@ -32,5 +32,6 @@
 -->
 
 ### 📊 Stats
-![QubeUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubeUK&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubeUK&theme=radical&show_icons=true)
+![QubeUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubeUK&theme=radical&show_icons=true)
+
