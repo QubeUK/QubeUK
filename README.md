@@ -20,6 +20,7 @@
 <!--
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=QubeUK)](https://leetcode.com/QubeUK/) 
+![QubeUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubeUK&theme=radical&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -33,5 +34,5 @@
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubeUK&theme=radical&show_icons=true)
-![QubeUK's GitHub stats](https://github-readme-stats.vercel.app/api?username=QubeUK&theme=radical&show_icons=true)
+
 
