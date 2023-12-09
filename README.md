@@ -35,4 +35,6 @@
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QubeUK&theme=radical&show_icons=true)
 
+![stats](https://github-profile-trophy.vercel.app/?username=QubeUK&theme=juicyfresh&rank=S,SSS,SS,AAA,AA,A,B,C&margin-w=15)
+
 
